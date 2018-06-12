@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/myskam7/socket.io-demo#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
   },
   "devDependencies": {
     "nodemon": "^1.17.5"
